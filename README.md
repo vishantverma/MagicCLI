@@ -101,3 +101,9 @@ Contributions are welcome! If you want to add new tools, optimize the regex pars
 
 ## 📄 License
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+---
+
+## ⚖️ Disclaimer
+*MagicCLI is an independent open-source project and is not affiliated with, sponsored by, or endorsed by Anthropic or the creators of Claude Code.*
+
