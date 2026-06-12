@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# User magic memory (so it doesn't get committed to the tool repo itself)
+MAGIC.md

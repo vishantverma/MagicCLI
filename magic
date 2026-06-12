@@ -1,0 +1,4 @@
+#!/bin/bash
+# MagicCLI launcher — symlink this into your PATH:
+#   ln -s ~/Desktop/MagicCLI/magic /usr/local/bin/magic
+exec python3 "$(dirname "$(readlink -f "$0")")/magiccli.py" "$@"
